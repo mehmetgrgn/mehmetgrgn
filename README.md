@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Girgin</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetgrgn&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetgirgin" /> </p>
-<div align="center"><img src="https://user-images.githubusercontent.com/66682123/140817808-b80bb191-63f6-4cb3-b5b6-d454d66846e7.gif" width="400" height="250"  /></div>
+<div align="center"><img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" width="400" height="250"  /></div>
 <br>
 
 
